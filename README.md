@@ -192,8 +192,6 @@ Authorization: Bearer <your_token>
 
 ##  Conclusion
 
-This is a beginner-friendly backend project to practice:
-
 * API development
 * Authentication
 * Database handling
