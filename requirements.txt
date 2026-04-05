@@ -1,0 +1,24 @@
+
+# Finance Tracker — Python Dependencies
+
+
+#web framework
+fastapi==0.111.0          
+uvicorn[standard]==0.29.0 
+
+# ── Database 
+sqlalchemy==2.0.30        
+pymysql==1.1.0           
+cryptography==42.0.8
+
+# ── Auth & Security 
+python-jose[cryptography]==3.3.0  
+passlib[bcrypt]==1.7.4            
+
+# ── Configuration 
+python-dotenv==1.0.1     
+# ── Form data 
+python-multipart==0.0.9
+
+# ── Validation 
+pydantic[email]==2.7.1    
